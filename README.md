@@ -22,4 +22,4 @@
 ## 
 <!-- <p><img src="https://img.shields.io/badge/MySQL-yellow?style=flat&logo=MySQL&logoColor=4479A1"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Notion-0052CC?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;</p> -->
    
-![hoinnovation's github stats](https://github-readme-stats.vercel.app/api?username=hoinnovation&show_icons=true)
+![hoinnovation's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hoinnovation&show_icons=true)
