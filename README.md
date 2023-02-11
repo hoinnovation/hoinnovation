@@ -2,8 +2,9 @@
 
 ### 안녕하세요! 저는 🚀go-getter인 HoeJeongJang입니다.👋
 <p>
-  <a href="https://h-go-getter.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/My_portfolio-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+<a href="https://velog.io/@h-go-getter"><img src="https://img.shields.io/badge/My_Blog-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/></a>
 <a href="http://linkedin.com/in/hoejeong-jang-823b20213" target="_blank"><img src="https://img.shields.io/badge/HoeJeongJang-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://h-go-getter.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/My_portfolio-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=hoinnovation@naver.com" target="_blank"><img src="https://img.shields.io/badge/hoinnovation@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
