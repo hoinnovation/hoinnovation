@@ -31,15 +31,19 @@
 </details>
 
 <details>
-<summary>⏰ 한 달 동안, 시간 기록하는 챌린저스 100% 달성</summary>
+<summary>⏰ 시간 기록 100% 달성</summary>
   
   
 > 올해는 꾸준히 계속 기록해서 시간을 지배하고 싶습니다. 특히 '얼마나 바빴는지'가 아니라 '얼마나 의미있는지'를 목표로 삼고자합니다.매 달마다 의미있는 목표를 세우고, 기록한 시간을 회고하며 내가 어디에 시간을 쓰고 있는지 파악 하고, 어떤 시간을 관리해야 내가 원하는 것을 할 수 있을지 판단해보려고 합니다.
+
+* 3월 : 2023-03-01 ~ 2023-03-31  
+  <img src="https://user-images.githubusercontent.com/45919197/230778203-93fdbb08-1bb9-43bc-be9e-ebc89e512999.png" width="500" height="400">
+
   
-* 2023-1-1 ~ 2023-2-28
+* 2월 : 2023-02-01 ~ 2023-02-28
   ![image](https://user-images.githubusercontent.com/45919197/222179723-c0164b48-9ebf-4bc4-a714-a82d3c3c0878.png)
 
-* 1월 : 2023-1-11 ~ 2023-1-31
+* 1월 : 2023-01-11 ~ 2023-01-31
  ![image](https://user-images.githubusercontent.com/45919197/215796405-f1fa70fc-88b6-4a19-bb62-26547fd8ceee.png)
 
 
