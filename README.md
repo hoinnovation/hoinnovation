@@ -37,14 +37,15 @@
 > 올해는 꾸준히 계속 기록해서 시간을 지배하고 싶습니다. 특히 '얼마나 바빴는지'가 아니라 '얼마나 의미있는지'를 목표로 삼고자합니다.매 달마다 의미있는 목표를 세우고, 기록한 시간을 회고하며 내가 어디에 시간을 쓰고 있는지 파악 하고, 어떤 시간을 관리해야 내가 원하는 것을 할 수 있을지 판단해보려고 합니다.
 
 * 3월 : 2023-03-01 ~ 2023-03-31  
-  <img src="https://user-images.githubusercontent.com/45919197/230778203-93fdbb08-1bb9-43bc-be9e-ebc89e512999.png" width="500" height="400">
+  <img src="https://velog.velcdn.com/images/h-go-getter/post/25516058-f7d1-4873-926a-f6d69f51b4c6/image.png" width="800" height="600">
 
   
 * 2월 : 2023-02-01 ~ 2023-02-28
-  ![image](https://user-images.githubusercontent.com/45919197/222179723-c0164b48-9ebf-4bc4-a714-a82d3c3c0878.png)
+  <img src="https://velog.velcdn.com/images/h-go-getter/post/66a3eb61-5ce4-4ae9-b06c-f43a5eef2f8c/image.png" width="800" height="600" >
+
 
 * 1월 : 2023-01-11 ~ 2023-01-31
- ![image](https://user-images.githubusercontent.com/45919197/215796405-f1fa70fc-88b6-4a19-bb62-26547fd8ceee.png)
+  <img src="https://velog.velcdn.com/images/h-go-getter/post/9cc4ec4c-ca6c-47de-b716-2cba8f550d05/image.png" width="800" height="600" >
 
 
 </details> 
