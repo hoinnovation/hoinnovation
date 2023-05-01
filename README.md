@@ -16,7 +16,7 @@
 
 #### 02. 데이터라는 도구를 활용해 비즈니스 성장에 중요한 문제를 해결하는 Business Data Analyst로 일하고 있습니다.
  
-#### 03. 매월 small success를 만들어 나갑니다. (2023년 03월 update)
+#### 03. 매월 small success를 만들어 나갑니다. (2023년 04월 update)
 
 <details>
 <summary> 🌳 1일 1커밋 습관 달성</summary>
@@ -24,9 +24,8 @@
   
 > TIL은 Today I Learned로,매일 학습한 걸 기록하는 저장소인데요. 항상 무언가를 듣고, 무언가를 생각하며, 무언가를 배우기 위해 매일 기록하고 있습니다. TIL을 하다보니, 1일 1커밋을 하고 싶어서 1개라도 공부해서 기록하게 되는 좋은 영향을 주더라구요. 올해도 계속 꾸준히 기록해서 빼곡히 잔디를 심고싶습니다.
   
-* 2023-01-01 ~ 2023-03-31 (97% 달성) 
-  ![image](https://user-images.githubusercontent.com/45919197/230777747-7d8c2428-ef2f-4567-aa95-50b0d21cb643.png)
-
+* 2023-01-01 ~ 2023-04-30 (97% 달성) 
+  ![image](https://user-images.githubusercontent.com/45919197/235448000-c8b0116c-36e3-4622-8357-c16b962b0c5c.png)
 
 </details>
 
@@ -36,6 +35,10 @@
   
 > 올해는 꾸준히 계속 기록해서 시간을 지배하고 싶습니다. 특히 '얼마나 바빴는지'가 아니라 '얼마나 의미있는지'를 목표로 삼고자합니다.매 달마다 의미있는 목표를 세우고, 기록한 시간을 회고하며 내가 어디에 시간을 쓰고 있는지 파악 하고, 어떤 시간을 관리해야 내가 원하는 것을 할 수 있을지 판단해보려고 합니다.
 
+* 4월 : 2023-04-01 ~ 2023-04-30  
+  <img src="https://user-images.githubusercontent.com/45919197/235450448-236c2aed-8a98-4f58-8eaa-d9d11b85850d.png" width="800" height="600">  
+  
+  
 * 3월 : 2023-03-01 ~ 2023-03-31  
   <img src="https://velog.velcdn.com/images/h-go-getter/post/25516058-f7d1-4873-926a-f6d69f51b4c6/image.png" width="800" height="600">
 
