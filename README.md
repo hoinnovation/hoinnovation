@@ -14,9 +14,9 @@
 * go-getter은 망설임 없이 뭔가 도전을 하고 성공을 위한 투지를 가지고 야심을 가지는 열정적인 사람을 뜻합니다. 
 * 어떻게든 시도해 보는 것이 완벽한 것보다 낫다고 생각합니다. 말보다는 행동이 앞서는 사람이 되고 싶어서 [Today I Learned](https://github.com/hoinnovation/TIL)와 블로그에 모든 것을 기록해보고 있습니다.
 
-#### 02. 데이터라는 도구를 활용해 비즈니스 성장에 중요한 문제를 해결하는 Business Data Analyst로 일하고 있습니다.
+#### 02. 데이터라는 도구를 활용해 비즈니스 성장에 중요한 문제를 해결하는 Business Analyst로 일하고 있습니다.
  
-#### 03. 매월 small success를 만들어 나갑니다. (2023년 07월 update)
+#### 03. 매월 small success를 만들어 나갑니다. (2023년 08월 update)
 
 <details>
 <summary> 🌳 1일 1커밋 습관 달성</summary>
@@ -24,8 +24,9 @@
   
 > TIL은 Today I Learned로,매일 학습한 걸 기록하는 저장소인데요. 항상 무언가를 듣고, 무언가를 생각하며, 무언가를 배우기 위해 매일 기록하고 있습니다. TIL을 하다보니, 1일 1커밋을 하고 싶어서 1개라도 공부해서 기록하게 되는 좋은 영향을 주더라구요. 올해도 계속 꾸준히 기록해서 빼곡히 잔디를 심고싶습니다.
   
-* 2023-01-01 ~ 2023-07-31 (97% 달성) 
-  ![image](https://github.com/hoinnovation/hoinnovation/assets/45919197/3aee354b-a29f-4713-9c02-331720734b12)
+* 2023-01-01 ~ 2023-08-31 (97% 달성) 
+  ![image](https://github.com/hoinnovation/hoinnovation/assets/45919197/449476e3-2dee-4215-a011-1cd3c852cca3)
+
 
 </details>
 
@@ -34,6 +35,9 @@
   
   
 > 올해는 꾸준히 계속 기록해서 시간을 지배하고 싶습니다. 특히 '얼마나 바빴는지'가 아니라 '얼마나 의미있는지'를 목표로 삼고자합니다.매 달마다 의미있는 목표를 세우고, 기록한 시간을 회고하며 내가 어디에 시간을 쓰고 있는지 파악 하고, 어떤 시간을 관리해야 내가 원하는 것을 할 수 있을지 판단해보려고 합니다.
+
+* 8월 : 2023-08-01 ~ 2023-08-31  
+  <img src="https://github.com/hoinnovation/hoinnovation/assets/45919197/ba579f2d-e4ea-46a0-aeb6-85d6b25c8919" width="500" height="470">
 
 * 7월 : 2023-07-01 ~ 2023-07-31  
   <img src="https://github.com/hoinnovation/hoinnovation/assets/45919197/a31c9afe-aa19-4094-a589-44c1b775be68" width="500" height="470">
