@@ -37,7 +37,7 @@
 > 올해는 꾸준히 계속 기록해서 시간을 지배하고 싶습니다. 특히 '얼마나 바빴는지'가 아니라 '얼마나 의미있는지'를 목표로 삼고자합니다.매 달마다 의미있는 목표를 세우고, 기록한 시간을 회고하며 내가 어디에 시간을 쓰고 있는지 파악 하고, 어떤 시간을 관리해야 내가 원하는 것을 할 수 있을지 판단해보려고 합니다.
 
 * 8월 : 2023-08-01 ~ 2023-08-31  
-  <img src="https://github.com/hoinnovation/hoinnovation/assets/45919197/ba579f2d-e4ea-46a0-aeb6-85d6b25c8919" width="500" height="470">
+  <img src="https://github.com/hoinnovation/hoinnovation/assets/45919197/dfed8f6f-e1ce-4ad5-a8c9-3554abbfa3d8" width="500" height="470">
 
 * 7월 : 2023-07-01 ~ 2023-07-31  
   <img src="https://github.com/hoinnovation/hoinnovation/assets/45919197/a31c9afe-aa19-4094-a589-44c1b775be68" width="500" height="470">
