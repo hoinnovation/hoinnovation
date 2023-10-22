@@ -16,25 +16,15 @@
 
 #### 02. 데이터라는 도구를 활용해 비즈니스 성장에 중요한 문제를 해결하는 Business Analyst로 일하고 있습니다.
  
-#### 03. 매월 small success를 만들어 나갑니다. (2023년 08월 update)
-
-<details>
-<summary> 🌳 1일 1커밋 습관 달성</summary>
-
-  
-> TIL은 Today I Learned로,매일 학습한 걸 기록하는 저장소인데요. 항상 무언가를 듣고, 무언가를 생각하며, 무언가를 배우기 위해 매일 기록하고 있습니다. TIL을 하다보니, 1일 1커밋을 하고 싶어서 1개라도 공부해서 기록하게 되는 좋은 영향을 주더라구요. 올해도 계속 꾸준히 기록해서 빼곡히 잔디를 심고싶습니다.
-  
-* 2023-01-01 ~ 2023-08-31 (97% 달성) 
-  ![image](https://github.com/hoinnovation/hoinnovation/assets/45919197/449476e3-2dee-4215-a011-1cd3c852cca3)
-
-
-</details>
+#### 03. 매월 small success를 만들어 나갑니다. (2023년 09월 update)
 
 <details>
 <summary>⏰ 시간 기록 100% 달성</summary>
   
-  
 > 올해는 꾸준히 계속 기록해서 시간을 지배하고 싶습니다. 특히 '얼마나 바빴는지'가 아니라 '얼마나 의미있는지'를 목표로 삼고자합니다.매 달마다 의미있는 목표를 세우고, 기록한 시간을 회고하며 내가 어디에 시간을 쓰고 있는지 파악 하고, 어떤 시간을 관리해야 내가 원하는 것을 할 수 있을지 판단해보려고 합니다.
+
+* 9월 : 2023-09-01 ~ 2023-09-30  
+  <img src="https://github.com/hoinnovation/hoinnovation/assets/45919197/44bfb519-7923-4aa7-8997-c584dab89e96" width="500" height="470">
 
 * 8월 : 2023-08-01 ~ 2023-08-31  
   <img src="https://github.com/hoinnovation/hoinnovation/assets/45919197/dfed8f6f-e1ce-4ad5-a8c9-3554abbfa3d8" width="500" height="470">
@@ -65,6 +55,19 @@
 
 
 </details> 
+
+<details>
+<summary> 🌳 1일 1커밋 습관 달성</summary>
+
+  
+> TIL은 Today I Learned로,매일 학습한 걸 기록하는 저장소인데요. 항상 무언가를 듣고, 무언가를 생각하며, 무언가를 배우기 위해 매일 기록하고 있습니다. TIL을 하다보니, 1일 1커밋을 하고 싶어서 1개라도 공부해서 기록하게 되는 좋은 영향을 주더라구요. 올해도 계속 꾸준히 기록해서 빼곡히 잔디를 심고싶습니다.
+  
+* 2023-01-01 ~ 2023-08-31 (97% 달성) 
+  ![image](https://github.com/hoinnovation/hoinnovation/assets/45919197/90ddb3c0-0198-43ea-a428-ce3f6d2ef8ed)
+
+
+</details>
+
 
 ## 
 <!-- <p><img src="https://img.shields.io/badge/MySQL-yellow?style=flat&logo=MySQL&logoColor=4479A1"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Notion-0052CC?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;</p> -->
