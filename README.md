@@ -53,6 +53,7 @@
 * 1월 : 2023-01-11 ~ 2023-01-31  
   <img src="https://velog.velcdn.com/images/h-go-getter/post/9cc4ec4c-ca6c-47de-b716-2cba8f550d05/image.png" width="500" height="400" >
 
+</details>
 
 <details>
 <summary> 🌳 1일 1커밋 습관 달성</summary>
