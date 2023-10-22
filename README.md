@@ -54,16 +54,14 @@
   <img src="https://velog.velcdn.com/images/h-go-getter/post/9cc4ec4c-ca6c-47de-b716-2cba8f550d05/image.png" width="500" height="400" >
 
 
-</details> 
-
 <details>
 <summary> 🌳 1일 1커밋 습관 달성</summary>
 
   
 > TIL은 Today I Learned로,매일 학습한 걸 기록하는 저장소인데요. 항상 무언가를 듣고, 무언가를 생각하며, 무언가를 배우기 위해 매일 기록하고 있습니다. TIL을 하다보니, 1일 1커밋을 하고 싶어서 1개라도 공부해서 기록하게 되는 좋은 영향을 주더라구요. 올해도 계속 꾸준히 기록해서 빼곡히 잔디를 심고싶습니다.
   
-* 2023-01-01 ~ 2023-08-31 (97% 달성) 
-  ![image](https://github.com/hoinnovation/hoinnovation/assets/45919197/90ddb3c0-0198-43ea-a428-ce3f6d2ef8ed)
+* 2023-01-01 ~ 2023-09-30 (97% 달성) 
+  ![image](https://github.com/hoinnovation/hoinnovation/assets/45919197/341b1178-2be9-4222-90c6-e7dbf9e71f53)
 
 
 </details>
