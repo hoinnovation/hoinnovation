@@ -16,12 +16,15 @@
 
 #### 02. 데이터라는 도구를 활용해 비즈니스 성장에 중요한 문제를 해결하는 Business Analyst로 일하고 있습니다.
  
-#### 03. 매월 small success를 만들어 나갑니다. (2023년 10월 update)
+#### 03. 매월 small success를 만들어 나갑니다. (2023년 11월 update)
 
 <details>
-<summary>⏰ 시간 기록 100% 달성</summary>
+<summary>⏰ 시간 기록 습관 달성</summary>
   
 > 올해는 꾸준히 계속 기록해서 시간을 지배하고 싶습니다. 특히 '얼마나 바빴는지'가 아니라 '얼마나 의미있는지'를 목표로 삼고자합니다.매 달마다 의미있는 목표를 세우고, 기록한 시간을 회고하며 내가 어디에 시간을 쓰고 있는지 파악 하고, 어떤 시간을 관리해야 내가 원하는 것을 할 수 있을지 판단해보려고 합니다.
+
+* 11월 : 2023-11-01 ~ 2023-11-30  
+  <img src="https://github.com/hoinnovation/hoinnovation/assets/45919197/53bae88a-335e-48dd-a127-15e23b4759d6" width="500" height="470">
 
 * 10월 : 2023-10-01 ~ 2023-10-31  
   <img src="https://github.com/hoinnovation/hoinnovation/assets/45919197/df3cf24a-73d3-423c-b1b4-43b11ab59bef" width="500" height="470">
