@@ -16,12 +16,15 @@
 
 #### 02. 데이터라는 도구를 활용해 비즈니스 성장에 중요한 문제를 해결하는 Business Analyst로 일하고 있습니다.
  
-#### 03. 매월 small success를 만들어 나갑니다. (2023년 11월 update)
+#### 03. 매월 small success를 만들어 나갑니다. (2023년 12월 update)
 
 <details>
 <summary>⏰ 시간 기록 습관 달성</summary>
   
 > 올해는 꾸준히 계속 기록해서 시간을 지배하고 싶습니다. 특히 '얼마나 바빴는지'가 아니라 '얼마나 의미있는지'를 목표로 삼고자합니다.매 달마다 의미있는 목표를 세우고, 기록한 시간을 회고하며 내가 어디에 시간을 쓰고 있는지 파악 하고, 어떤 시간을 관리해야 내가 원하는 것을 할 수 있을지 판단해보려고 합니다.
+
+* 11월 : 2023-12-01 ~ 2023-12-31  
+  <img src="https://github.com/hoinnovation/hoinnovation/assets/45919197/71b1ff4b-5eb4-4000-a220-06cff7558139" width="500" height="470">
 
 * 11월 : 2023-11-01 ~ 2023-11-30  
   <img src="https://github.com/hoinnovation/hoinnovation/assets/45919197/53bae88a-335e-48dd-a127-15e23b4759d6" width="500" height="470">
@@ -65,8 +68,8 @@
 <summary> 🌳 1일 1커밋 습관 달성</summary>
 > TIL은 Today I Learned로,매일 학습한 걸 기록하는 저장소인데요. 항상 무언가를 듣고, 무언가를 생각하며, 무언가를 배우기 위해 매일 기록하고 있습니다. TIL을 하다보니, 1일 1커밋을 하고 싶어서 1개라도 공부해서 기록하게 되는 좋은 영향을 주더라구요. 올해도 계속 꾸준히 기록해서 빼곡히 잔디를 심고싶습니다.
 
-* 2023-01-01 ~ 2023-11-30 (97% 달성) 
-  ![image](https://github.com/hoinnovation/hoinnovation/assets/45919197/2a497966-a309-4c68-bdba-f0f261820cf5)
+* 2023-01-01 ~ 2023-12-31 (97% 달성) 
+  ![image](https://github.com/hoinnovation/hoinnovation/assets/45919197/40cc7267-99bd-4ef5-92d4-becdf0018d12)
 
 
 </details>
